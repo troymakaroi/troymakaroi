@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="M. LaLiga 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="Futbol" tvg-name="M. LaLiga 4K",M. LaLiga 4K
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 tvg-id="M. LaLiga TV Bar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="Futbol" tvg-name="M. LaLiga TV Bar",M. LaLiga TV Bar
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
